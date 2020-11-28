@@ -81,7 +81,7 @@ function draw() {
   stroke("pink");
   strokeWeight(5);
   textFont("Broadway");
-  text("Press Space to throw back the STONE!",50 ,50);
+  text("Press 'space' to throw the stone again!",50 ,50);
   image(boy ,200,360,200,300);
 }
 
